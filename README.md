@@ -1,24 +1,97 @@
-# HELLOO
- I’m currently working on AI/ML projects and full-stack applications<br><br> Fun fact: I love turning real-world problems into practical tech solutions!
+<h1 align="center">Hi, I'm Deepshika 👋</h1>
 
+<p align="center">
+  AI/ML and full-stack developer who turns real-world problems into practical tech solutions.
+</p>
 
-##  Socials:
-   [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/deepshikakamal/)
-
-#  Tech Stack:
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Neo4J](https://img.shields.io/badge/Neo4j-008CC1?style=for-the-badge&logo=neo4j&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white) ![Raspberry Pi](https://img.shields.io/badge/-Raspberry_Pi-C51A4A?style=for-the-badge&logo=Raspberry-Pi)
-#  GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=deepshikakamal-08&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=deepshikakamal-08&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=deepshikakamal-08&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
-
-##  GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=deepshikakamal-08&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-
-###  Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=deepshikakamal-08&limit=5&theme=dark&combine_all_yearly_contributions=true)
+<p align="center">
+  <a href="https://www.linkedin.com/in/deepshikakamal/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="YOUR_PORTFOLIO_URL"><img src="https://img.shields.io/badge/Portfolio-111111?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/></a>
+  <a href="mailto:YOUR_EMAIL"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+</p>
 
 ---
-[![](https://komarev.com/ghpvc/?username=deepshikakamal-08&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+##  About
+
+-  Currently building: **AI/ML projects and full-stack applications**
+-  Exploring: **YOUR_CURRENT_LEARNING**
+-  Interested in: **healthcare tech, fraud prevention, smart navigation**
+
+##  Featured projects
+
+<table>
+  <tr>
+    <th align="left">Project</th>
+    <th align="left">What it does</th>
+    <th align="left">Stack</th>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/deepshikakamal-08/preeclampsense-dashboard"><b>PreeclampSense</b></a></td>
+    <td>Dashboard for monitoring preeclampsia risk indicators. <i>(edit)</i></td>
+    <td>HTML, CSS, JavaScript</td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/deepshikakamal-08/smart-shopping-mall-navigator"><b>Smart Shopping Mall Navigator</b></a></td>
+    <td>Helps shoppers find the way to stores inside a mall. <i>(edit)</i></td>
+    <td>Python</td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/deepshikakamal-08/safebank-guardian"><b>SafeBank Guardian</b></a></td>
+    <td>Context-aware protection against socially engineered financial fraud.</td>
+    <td>JavaScript</td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/deepshikakamal-08/deepshika-portfolio"><b>Portfolio</b></a></td>
+    <td>My personal portfolio website. <i>(edit)</i></td>
+    <td>HTML, CSS</td>
+  </tr>
+</table>
+
+##  Tech stack
+
+<table>
+  <tr>
+    <td><b>Languages</b></td>
+    <td><img src="https://skillicons.dev/icons?i=cpp,java,python,js,html,css" alt="Languages"/></td>
+  </tr>
+  <tr>
+    <td><b>Backend</b></td>
+    <td><img src="https://skillicons.dev/icons?i=nodejs,express,fastapi" alt="Backend"/></td>
+  </tr>
+  <tr>
+    <td><b>Databases</b></td>
+    <td><img src="https://skillicons.dev/icons?i=mysql,postgres,sqlite,supabase,firebase" alt="Databases"/></td>
+  </tr>
+  <tr>
+    <td><b>ML / Data</b></td>
+    <td><img src="https://skillicons.dev/icons?i=sklearn,tensorflow,pytorch,pandas" alt="ML and Data"/></td>
+  </tr>
+  <tr>
+    <td><b>Tools</b></td>
+    <td><img src="https://skillicons.dev/icons?i=git,github,vercel,netlify,figma,arduino,raspberrypi" alt="Tools"/></td>
+  </tr>
+</table>
+
+## 📊 GitHub stats
+
+<p align="center">
+  <img height="170" src="https://github-readme-stats.shion.dev/api?username=deepshikakamal-08&theme=dark&hide_border=true&include_all_commits=true&count_private=false" alt="GitHub stats"/>
+  <img height="170" src="https://github-readme-stats.shion.dev/api/top-langs/?username=deepshikakamal-08&theme=dark&hide_border=true&layout=compact&include_all_commits=true&count_private=false" alt="Top languages"/>
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=deepshikakamal-08&theme=dark&hide_border=true" alt="GitHub streak"/>
+</p>
+
+##  Contribution snake
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/deepshikakamal-08/deepshikakamal-08/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/deepshikakamal-08/deepshikakamal-08/output/github-snake.svg" />
+  <img alt="Contribution snake animation" src="https://raw.githubusercontent.com/deepshikakamal-08/deepshikakamal-08/output/github-snake.svg" />
+</picture>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=deepshikakamal-08&style=flat-square&color=blueviolet" alt="Profile views"/>
+</p>

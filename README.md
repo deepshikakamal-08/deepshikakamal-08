@@ -6,8 +6,9 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/deepshikakamal/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-  <a href="YOUR_PORTFOLIO_URL"><img src="https://img.shields.io/badge/Portfolio-111111?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/></a>
-  <a href="mailto:YOUR_EMAIL"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+  <a href="https://github.com/deepshikakamal-08/deepshika-portfolio"><img src="https://img.shields.io/badge/Portfolio-111111?style=for-the-badge&logo=github&logoColor=white" alt="Portfolio"/></a>
+  <!-- To show an Email badge, replace you@example.com with your address and uncomment the line below -->
+  <!-- <a href="mailto:you@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a> -->
 </p>
 
 ---
@@ -15,7 +16,7 @@
 ##  About
 
 -  Currently building: **AI/ML projects and full-stack applications**
--  Exploring: **YOUR_CURRENT_LEARNING**
+-  Exploring: **machine learning and modern web development**
 -  Interested in: **healthcare tech, fraud prevention, smart navigation**
 
 ##  Featured projects
@@ -28,12 +29,12 @@
   </tr>
   <tr>
     <td><a href="https://github.com/deepshikakamal-08/preeclampsense-dashboard"><b>PreeclampSense</b></a></td>
-    <td>Dashboard for monitoring preeclampsia risk indicators. <i>(edit)</i></td>
+    <td>Dashboard for monitoring preeclampsia risk indicators.</td>
     <td>HTML, CSS, JavaScript</td>
   </tr>
   <tr>
     <td><a href="https://github.com/deepshikakamal-08/smart-shopping-mall-navigator"><b>Smart Shopping Mall Navigator</b></a></td>
-    <td>Helps shoppers find the way to stores inside a mall. <i>(edit)</i></td>
+    <td>Helps shoppers find their way to stores inside a mall.</td>
     <td>Python</td>
   </tr>
   <tr>
@@ -42,9 +43,15 @@
     <td>JavaScript</td>
   </tr>
   <tr>
+    <td><a href="https://github.com/deepshikakamal-08/regguard"><b>RegGuard</b></a></td>
+    <!-- TODO: replace with a one-line description of RegGuard -->
+    <td>Web app deployed on Vercel. <a href="https://regguard-sigma.vercel.app">Live demo</a></td>
+    <td>JavaScript</td>
+  </tr>
+  <tr>
     <td><a href="https://github.com/deepshikakamal-08/deepshika-portfolio"><b>Portfolio</b></a></td>
-    <td>My personal portfolio website. <i>(edit)</i></td>
-    <td>HTML, CSS</td>
+    <td>My personal portfolio website.</td>
+    <td>HTML, CSS, JavaScript</td>
   </tr>
 </table>
 
@@ -65,7 +72,11 @@
   </tr>
   <tr>
     <td><b>ML / Data</b></td>
-    <td><img src="https://skillicons.dev/icons?i=sklearn,tensorflow,pytorch,pandas" alt="ML and Data"/></td>
+    <td>
+      <img src="https://skillicons.dev/icons?i=sklearn,tensorflow,pytorch" alt="ML frameworks"/>
+      <br/>
+      <img src="https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="pandas"/>
+    </td>
   </tr>
   <tr>
     <td><b>Tools</b></td>
@@ -73,11 +84,11 @@
   </tr>
 </table>
 
-## 📊 GitHub stats
+##  GitHub stats
 
 <p align="center">
   <img height="170" src="https://github-readme-stats.shion.dev/api?username=deepshikakamal-08&theme=dark&hide_border=true&include_all_commits=true&count_private=false" alt="GitHub stats"/>
-  <img height="170" src="https://github-readme-stats.shion.dev/api/top-langs/?username=deepshikakamal-08&theme=dark&hide_border=true&layout=compact&include_all_commits=true&count_private=false" alt="Top languages"/>
+  <img height="170" src="https://github-readme-stats.shion.dev/api/top-langs/?username=deepshikakamal-08&theme=dark&hide_border=true&layout=compact" alt="Top languages"/>
 </p>
 
 <p align="center">
@@ -86,11 +97,13 @@
 
 ##  Contribution snake
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/deepshikakamal-08/deepshikakamal-08/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/deepshikakamal-08/deepshikakamal-08/output/github-snake.svg" />
-  <img alt="Contribution snake animation" src="https://raw.githubusercontent.com/deepshikakamal-08/deepshikakamal-08/output/github-snake.svg" />
-</picture>
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/deepshikakamal-08/deepshikakamal-08/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/deepshikakamal-08/deepshikakamal-08/output/github-snake.svg" />
+    <img alt="Contribution snake animation" src="https://raw.githubusercontent.com/deepshikakamal-08/deepshikakamal-08/output/github-snake.svg" />
+  </picture>
+</p>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=deepshikakamal-08&style=flat-square&color=blueviolet" alt="Profile views"/>

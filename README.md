@@ -104,7 +104,6 @@
     <img alt="Contribution snake animation" src="https://raw.githubusercontent.com/deepshikakamal-08/deepshikakamal-08/output/github-snake.svg" />
   </picture>
 </p>
-
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=deepshikakamal-08&style=flat-square&color=blueviolet" alt="Profile views"/>
+  <img alt="Profile views" src="https://komarev.com/ghpvc/?username=deepshikakamal-08" />
 </p>

@@ -105,5 +105,5 @@
   </picture>
 </p>
 <p align="center">
-  <img alt="Profile views" src="https://komarev.com/ghpvc/?username=deepshikakamal-08" />
+ <img alt="Profile views" src="https://visitor-badge.laobi.icu/badge?page_id=deepshikakamal-08.deepshikakamal-08" />
 </p>

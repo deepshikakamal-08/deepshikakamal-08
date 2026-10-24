@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Deepshika 👋</h1>
+<h1 align="center">Hi, I'm Deepshika </h1>
 
 <p align="center">
   AI/ML and full-stack developer who turns real-world problems into practical tech solutions.
